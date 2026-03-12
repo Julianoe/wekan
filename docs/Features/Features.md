@@ -32,6 +32,10 @@ Not all from [CHANGELOG](https://github.com/wekan/wekan/blob/main/CHANGELOG.md) 
 
 ![Wekan watch board screenshot](screenshot-muted-watch.png)
 
+### Watch list or card
+
+Each individual list or card can be "watched" by clicking the watch (👁️ eye icon) toggle. All activity on that list or card will be reported in notifications, wether user is watching this board or not.
+
 ### Keyboard shortcuts button at bottom right corner
 
 ![Wekan watch board screenshot](screenshot-keyboard-shortcuts.png)
